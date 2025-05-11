@@ -11,16 +11,7 @@
 ---
 
 ### 🛠️ Editors of choice:
-![JetBrains](https://img.shields.io/badge/JetBrains-%23000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
-
----
-
-### 📊 WakaTime Stats:
-<p align="center">
-  <img src="https://wakatime.com/share/@c48108c0-dd21-4265-995a-32d28034e2fc/55d7facd-2e69-4a18-bb86-9a14b892524c.svg" height="400">
-</p>
-
----
+![JetBrains](https://img.shields.io/badge/JetBrains-%23000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white)
 
 ## CERTIFIED PHP ENJOYER
