@@ -1,5 +1,5 @@
-[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube)](https://www.youtube.com/@oslint)
-[![Twitter](https://img.shields.io/badge/X-blue?logo=x)](https://x.com/oslinter)
+[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube)](https://www.youtube.com/@KalbarczykDev)
+[![Twitter](https://img.shields.io/badge/X-blue?logo=x)](https://x.com/KalbarczykDev)
 
 ### ⚙️ I work mainly in:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
