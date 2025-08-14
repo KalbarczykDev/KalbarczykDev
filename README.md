@@ -3,9 +3,12 @@
 ### 💻 I work with
 ![Java](https://img.shields.io/badge/Java-%23DD0031.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-%23DD0031.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 
 ### 🔗 Connect With Me
 [![Website](https://img.shields.io/badge/Website-%230077B5.svg?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://kalbarczyk.dev/)
