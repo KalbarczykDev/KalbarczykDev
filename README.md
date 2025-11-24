@@ -1,7 +1,6 @@
 # KalbarczykDev
 
-Content Creator. Linux Enjoyer. Man of many talents.
-I work at Netcompany as an Consultant. As a hobby, I develop plugins for the tools I use and rice my operating system and terminal code editor (neovim btw).
+Content Creator. Linux Enjoyer. Consultant at Netcompany
 
 ### Fun Facts
 * I love linux and foss
